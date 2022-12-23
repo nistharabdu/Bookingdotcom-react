@@ -18,7 +18,7 @@ export const Banner = () => {
   return (
     <div className="banner" style={{backgroundImage: "url('https://cf.bstatic.com/xdata/images/explorer_city/1680x560/2590.webp?k=dec5256b6014a04d763d3f2965a9cff0e974ac20245e42cb3df6b81602f285bf&o=')"}}>
         <div className="banner-hero__mask"></div>
-        <div className="container relative z-10 mx-auto">
+        <div className="max-w-screen-xl mx-auto relative z-10 mx-auto">
             <div className="banner__content white">
                 <div className="banner__content__heading">
                     <h1 className="">Search hotels in Dubai</h1>

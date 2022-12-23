@@ -6,7 +6,7 @@ import { HeaderNav } from '../header-nav/HeaderNav'
 export const Header = () => {
   return (
     <header className="py-5">
-        <div className="container-xl mx-auto">
+        <div className="max-w-screen-xl mx-auto">
             <div className="flex justify-between">
                 <div className="logo">
                     <a href=""><svg className="bk-icon -streamline-booking_logo_dark_bg_mono" height="24" width="144" viewBox="0 0 180 30" role="presentation" aria-hidden="true" focusable="false">
