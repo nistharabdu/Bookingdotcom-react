@@ -1,0 +1,5 @@
+/* header */
+header { background-color: var(--main-bg-color); color: var(--white); }
+.category__each { border-radius: 999px; border: 1px solid var(--main-bg-color);; }
+.category__each.active  { background: rgba(255, 255, 255, 0.1); border: 1px solid #fff; }
+.category__each:hover { background: rgba(255, 255, 255, 0.1);  }
